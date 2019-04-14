@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using WebApplication4.Models;
+using PasswordResetMVC.Models;
 
-namespace WebApplication4.Controllers
+namespace PasswordResetMVC.Controllers
 {
     public class PasswordResetController : Controller
     {
@@ -38,7 +38,7 @@ namespace WebApplication4.Controllers
                 string email = @"To reset your password, use the following link: \n
 http://mycoolsite.com/stuff/passwordreset?token=" + request.AccessToken;
 
-                myEmailApi.SendEmail(email);
+                //myEmailApi.SendEmail(email);
 
             }
             else

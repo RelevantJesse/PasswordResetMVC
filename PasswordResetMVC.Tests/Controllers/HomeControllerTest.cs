@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WebApplication4;
-using WebApplication4.Controllers;
+using PasswordResetMVC;
+using PasswordResetMVC.Controllers;
 
-namespace WebApplication4.Tests.Controllers
+namespace PasswordResetMVC.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

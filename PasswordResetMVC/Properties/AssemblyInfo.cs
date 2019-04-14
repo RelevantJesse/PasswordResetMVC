@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebApplication4.Tests")]
+[assembly: AssemblyTitle("PasswordResetMVC")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WebApplication4.Tests")]
+[assembly: AssemblyProduct("PasswordResetMVC")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("29107284-1661-4e0d-a6c3-cd57d324109c")]
+[assembly: Guid("ee096d64-39a0-4665-98e8-aab7858be0e8")]
 
 // Version information for an assembly consists of the following four values:
 //
